@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16F1713-ISP
+D 8-bit Flash MCU, 32MHz, 4KB Flash, 512B RAM, PDIP-28
+K Cost Effective 8-Bit Intelligent Analog Flash Microcontrollers
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16F1713-Data-Sheet-40001726D.pdf
+$ENDCMP
+#
+#End Doc Library
