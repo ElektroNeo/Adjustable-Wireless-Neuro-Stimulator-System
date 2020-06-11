@@ -32,7 +32,7 @@ In the software used PIC16F1713 microcontroller features listed below.
 ## App
 | Disconnected App  | Connected App |
 | :-------------: | :-------------: |
-| <img src="Pictures/App/app-connected.jpg" width="250">  | <img src="Pictures/App/app-disconnected.jpg" width="250">  |
+| <img src="Pictures/App/app-disconnected.jpg" width="250">  | <img src="Pictures/App/app-connected.jpg" width="250">  |
 
 ## Schematic
 |   |  |
