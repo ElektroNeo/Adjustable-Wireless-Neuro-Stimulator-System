@@ -1,1 +1,1 @@
-# Adjustable-Wireless-Stimulation-Device
+# Adjustable Wireless Neuro Stimulator System
